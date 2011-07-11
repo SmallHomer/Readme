@@ -8,6 +8,10 @@
 * 
 * <rev>~<n>
 * 
+* $Id$-expansion
+* 
 */
 
 // Test
+
+$VERSION = "$Rev: $";
